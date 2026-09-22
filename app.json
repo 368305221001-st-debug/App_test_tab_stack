@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "app_tab_stack",
+    "slug": "snack-50487987-aa87-41d4-b3d3-3bb84c6e7ecd",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.watcharee.p.snack50487987aa8741d4b3d33bb84c6e7ecd"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d065c043-3b26-4f12-b6af-c81778c2db7d"
+      }
+    }
+  }
+}
